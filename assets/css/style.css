@@ -105,11 +105,11 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 
 #hero h1 {
   margin: 0 0 10px 0;
-  font-size: 48px;
+  font-size: 96px;    /* 48px; */
   font-weight: 700;
-  line-height: 56px;
+  line-height: 112px;  /* 56px; */
   text-transform: uppercase;
-  color: #fff;
+  color: #00003D;    /* #fff; */
 }
 
 #hero h2 {
