@@ -106,14 +106,14 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 #hero h1 {
   margin: 0 0 10px 0;
   font-size: 48px;
-  font-weight: 700;
+  font-weight: 700;    /*  300; */
   line-height: 112px;  /* 56px; */
   text-transform: uppercase;
   color: #00003D;    /* #fff; */
 }
 
 #hero h2 {
-  color: #eee;
+  color: #eee;        /*    */
   margin-bottom: 30px;
   font-size: 24px;
 }
@@ -121,7 +121,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 #hero .countdown {
   font-size: 48px;
   font-weight: 700;         /* 300; */
-  color: #00003D;          /* #fff; */
+  color: #B6FF01;          /* #fff; */
   line-height: 56px;
   margin: 30px 0 60px 0;
 }
