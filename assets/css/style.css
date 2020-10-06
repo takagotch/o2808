@@ -212,8 +212,8 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   transition: 0.5s;
   margin: 10px;
   border: 2px solid #4f92af;
-  color: #00003D;    /* #fff; */
-  background: #4f92af;
+  color: #00003D;         /* #fff; */
+  background:  #B6FF01;   /* #4f92af; */
 }
 
 #hero .php-email-form button[type="submit"]:hover {
