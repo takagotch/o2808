@@ -3,8 +3,8 @@ You can buy it from: https://bootstrapmade.com/free-bootstrap-coming-soon-templa
 
 ```
 
-.php
-
+contact.php
+notify.php
 
 ```
 
