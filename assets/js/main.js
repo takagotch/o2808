@@ -1,3 +1,4 @@
+
 /**
 * Template Name: WeBuild - v2.1.0
 * Template URL: https://bootstrapmade.com/free-bootstrap-coming-soon-template-countdwon/
@@ -32,3 +33,4 @@
   });
 
 })(jQuery);
+
